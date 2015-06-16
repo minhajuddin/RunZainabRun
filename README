@@ -1,1 +1,17 @@
-RunZainabRun
+# RunZainabRun
+
+More than your REPL
+
+## The use case
+
+While programming, many of us use a REPL, ruby, erlang etc,. have a good REPL.
+However, some programming languages don't have a REPL and those which have will never allow my to modify my code in the way my editor does.
+
+This plugin runs your file using the right compiler interpreter and show you the results in a readonly buffer at the bottom of your current window.
+
+All you need to do is press Ctrl+d
+
+# Contributions
+
+I would love to have your contributions to this repo, just send me a pull request.
+
