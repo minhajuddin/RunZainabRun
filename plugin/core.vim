@@ -1,8 +1,8 @@
 " TODO: Make this use a tmp file and the backgrounding process
-
 " name of the output buffer
 let s:OUTPUT_BUFFER_NAME="RunZainabRun"
-" use a negative number to avoid conflicts with other buffers
+
+" initialize the buffer var where we'll store the current buffer number
 let s:buffer_number = -1
 
 " This function opens an output buffer if it doesn't

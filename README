@@ -15,3 +15,9 @@ All you need to do is press Ctrl+d
 
 I would love to have your contributions to this repo, just send me a pull request.
 
+# Development/Test
+You can run the following command to load vim with just this plugin while debugging/testing
+
+    # make sure that you manually set the filetype as your syntax files won't be loaded by this
+    vim -u ./vimrc
+
